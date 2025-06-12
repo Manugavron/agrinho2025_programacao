@@ -24,7 +24,7 @@ main {
   padding: 1.5rem;
   border-radius: 10px;
   max-width: 700px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  box-shadow: 0 0 10px rgba(154, 244, 124, 0.1);
 }
 
 .features ul {
