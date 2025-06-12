@@ -19,7 +19,7 @@ main {
 }
 
 .intro, .features {
-  background: white;
+  background: rgb(195, 244, 170);
   margin: 1rem auto;
   padding: 1.5rem;
   border-radius: 10px;
